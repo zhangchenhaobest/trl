@@ -1,3 +1,29 @@
+# trl
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Train transformer language models with reinforcement learning.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+用强化学习训练 Transformer 语言模型。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 # TRL - Transformers Reinforcement Learning
 
 <div style="text-align: center">
